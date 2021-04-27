@@ -30,7 +30,7 @@ Working to fill this beatifull repository with great projects! 💪🏻
 <h3>To know more about me, and my experience:</h3>
 <ul>
 <li>
-Check my <a href="" target="_blank">CV</a>!
+Check my <a href="https://github.com/ine5figueiredo/ine5figueiredo/blob/main/In%C3%AAs%20Figueiredo%20-%20CV.pdf" target="_blank">CV</a>!
 </li>
 or
 <li>
